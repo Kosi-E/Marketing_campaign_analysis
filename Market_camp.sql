@@ -215,13 +215,7 @@ FROM marketing_data_staging
 GROUP BY month
 ORDER BY month;
 
-          
-
-
-
-
-
-
+-- Select all distinct campaigns
 SELECT DISTINCT(Campaign)
 FROM marketing_data_staging;
 
