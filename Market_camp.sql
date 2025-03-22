@@ -16,7 +16,6 @@ INSERT marketing_data_staging
 SELECT *
 FROM `marketing data`;
 
-
 -- Removing duplicates
 
 SELECT *,
